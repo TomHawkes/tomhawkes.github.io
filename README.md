@@ -3,7 +3,7 @@ title:
 tags: 
 categories: 
 published: 
-layout: default.html
+layout: default
 js: index
 notes:
 ---
