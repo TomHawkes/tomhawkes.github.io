@@ -1,11 +1,5 @@
 ---
-title: 
-tags: 
-categories: 
-published: 
 layout: default
-js: index
-notes:
 ---
 
 # tomhawkes.github.io
